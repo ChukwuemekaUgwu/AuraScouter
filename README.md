@@ -1,0 +1,1 @@
+AuraScouter's purpose is to track it's users 'AURA' attributes and provide them with the ability to search for public gyms/parks that have AURA to find ongoing game events like recreational pickup basketball, volleyball, soccer, etc.
